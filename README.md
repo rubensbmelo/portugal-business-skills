@@ -17,7 +17,7 @@ Quase todas as skills públicas são em inglês e para o mercado americano. Quem
 **Claude Code** — copia a pasta da skill para `~/.claude/skills/`:
 
 ```bash
-git clone https://github.com/SEU-UTILIZADOR/portugal-business-skills.git
+git clone https://github.com/rubensbmelo/portugal-business-skills.git
 cp -r portugal-business-skills/skills/* ~/.claude/skills/
 ```
 
